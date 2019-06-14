@@ -8,8 +8,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainRestController {
     @Value("${custom.server.name}")
     private String serverName;
+
     @RequestMapping(value = "/send")
     public HystrixResponse sendPackage() {
-    return new HystrixResponse(serverName);
+        HystrixResponse hystrixResponse = new HystrixResponse();
+        hystrixResponse.setServerName(serverName);
+        return hystrixResponse;
     }
 }

@@ -1,4 +1,4 @@
-package net.siekiera.hystrixrestserver;
+package net.siekiera.hystrixrestclient;
 
 import java.util.UUID;
 
