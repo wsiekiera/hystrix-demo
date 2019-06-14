@@ -1,27 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="ChangeListManager">
+    <list default="true" id="ec20d68c-6d3a-46a1-97a7-a31bc98a9c2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/hystrix-rest-client/target/" />
+    <ignored path="$PROJECT_DIR$/hystrix-rest-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="FUSProjectUsageTrigger">
+    <session id="319017292">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="356" />
+          <entry key="txt" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="356" />
+          <entry key="PLAIN_TEXT" value="58" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hystrix-rest-server/src/main/java/net/siekiera/hystrixrestserver/HystrixRestServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hystrix-rest-server/src/main/java/net/siekiera/hystrixrestserver/MainRestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hystrix-rest-server/src/main/java/net/siekiera/hystrixrestserver/HystrixResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hystrix-rest-server/src/main/java/net/siekiera/hystrixrestserver/MainRestController.java" />
+        <option value="$PROJECT_DIR$/hystrix-rest-server/src/main/java/net/siekiera/hystrixrestserver/HystrixResponse.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hystrix-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hystrix-rest-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hystrix-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hystrix-rest-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hystrix-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hystrix-rest-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hystrix-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hystrix-rest-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hystrix-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hystrix-rest-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hystrixrestserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560541559526" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.HystrixRestClientApplication">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.siekiera.hystrixrestserver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HystrixRestServerApplication">
     <configuration name="HystrixRestClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hystrix-rest-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="net.siekiera.hystrixrestclient.HystrixRestClientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="HystrixRestServerApplication - node#1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="REST servers 1-4">
+      <module name="hystrix-rest-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.siekiera.hystrixrestserver.HystrixRestServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8081" />
+        </param>
+      </additionalParameters>
+      <method v="2" />
+    </configuration>
+    <configuration name="HystrixRestServerApplication - node#2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="REST servers 1-4">
+      <module name="hystrix-rest-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.siekiera.hystrixrestserver.HystrixRestServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8082" />
+        </param>
+      </additionalParameters>
+      <method v="2" />
+    </configuration>
+    <configuration name="HystrixRestServerApplication - node#3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="REST servers 1-4">
+      <module name="hystrix-rest-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.siekiera.hystrixrestserver.HystrixRestServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8083" />
+        </param>
+      </additionalParameters>
+      <method v="2" />
+    </configuration>
+    <configuration name="HystrixRestServerApplication - node#4" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="REST servers 1-4">
+      <module name="hystrix-rest-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.siekiera.hystrixrestserver.HystrixRestServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8084" />
+        </param>
+      </additionalParameters>
+      <method v="2" />
     </configuration>
     <configuration name="HystrixRestServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hystrix-rest-server" />
@@ -33,7 +282,112 @@
     <list>
       <item itemvalue="Spring Boot.HystrixRestClientApplication" />
       <item itemvalue="Spring Boot.HystrixRestServerApplication" />
+      <item itemvalue="Spring Boot.HystrixRestServerApplication - node#1" />
+      <item itemvalue="Spring Boot.HystrixRestServerApplication - node#2" />
+      <item itemvalue="Spring Boot.HystrixRestServerApplication - node#3" />
+      <item itemvalue="Spring Boot.HystrixRestServerApplication - node#4" />
     </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec20d68c-6d3a-46a1-97a7-a31bc98a9c2e" name="Default Changelist" comment="" />
+      <created>1560540294761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560540294761</updated>
+      <workItem from="1560540296136" duration="815000" />
+      <workItem from="1560541192755" duration="395000" />
+      <workItem from="1560541615363" duration="388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1598000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hystrix-rest-server/src/main/java/net/siekiera/hystrixrestserver/HystrixRestServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-rest-server/src/main/java/net/siekiera/hystrixrestserver/MainRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-rest-server/src/main/java/net/siekiera/hystrixrestserver/HystrixResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
